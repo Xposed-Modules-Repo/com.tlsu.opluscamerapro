@@ -2,7 +2,7 @@
 
 # OPCameraPro 相机功能补全
 
-<a href="https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/releases/"><img alt="Github Releases" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.tlsu.opluscamerapro"><a href="https://github.com/Xposed-Modules-Repo/com.weverses.modempro/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.tlsu.opluscamerapro/total?label=Downloads"></a> <a href="https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Xposed-Modules-Repo/com.tlsu.opluscamerapro"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/releases/"><img alt="Github Releases" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.tlsu.opluscamerapro"><a href="https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.tlsu.opluscamerapro/total?label=Downloads"></a> <a href="https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Xposed-Modules-Repo/com.tlsu.opluscamerapro"></a>
 <a href="http://t.me/+awg-7X5Ggrs5NzZl"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
