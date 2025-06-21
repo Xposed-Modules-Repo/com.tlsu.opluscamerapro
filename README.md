@@ -10,6 +10,8 @@
 - 这是一个适用于ColorOS与realmeUI（或许还支持OxygenOS）的相机/相册增强型Xposed模块，建议ColorOS15/realmeUI6.0++，最低向下兼容ColorOS14/realmeUI5.0。
 - App是一个第三方的功能模块，使用该模块App造成的任何后果作者均不会负责。
 
+### 开放源代码
+- https://github.com/Weverses/OPCameraPro
 ### 下载与支持
 - Github Releases: https://github.com/Xposed-Modules-Repo/com.tlsu.opluscamerapro/releases/
 - Xposed Modules Repo: https://modules.lsposed.org/module/com.tlsu.opluscamerapro
